@@ -1,5 +1,6 @@
 #include <iostream>
-#include "Book.cpp"
+#include "Book.h"
+#include "Graph.h"
 #include <string>
 
 int main()
