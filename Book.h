@@ -2,7 +2,6 @@
 #define BOOK_H
 #include <string>
 #include <vector>
-#include "Graph.cpp"
 
 class Book
 {
